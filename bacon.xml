@@ -15,7 +15,7 @@
   
   <!-- oppo specific things -->
   <project name="slock83/android_device_oneplus_bacon.git" path="device/oneplus/bacon" remote="github" revision="cm-12.1"/>
-  <project name="CyanogenMod/android_device_oppo_msm8974-common.git" path="device/oppo/msm8974-common" remote="github" revision="cm-12.1"/>
+  <project name="slock/android_device_oppo_msm8974-common.git" path="device/oppo/msm8974-common" remote="github" revision="cm-12.1"/>
   <project name="CyanogenMod/android_device_oppo_common.git" path="device/oppo/common" remote="github" revision="cm-12.1"/>
   <project name="CyanogenMod/android_device_qcom_common.git" path="device/qcom/common" remote="github" revision="cm-12.1"/>
   <project name="CyanogenMod/android_device_qcom_sepolicy.git" path="device/qcom/sepolicy" remote="github" revision="cm-12.1"/>
